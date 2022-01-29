@@ -30,7 +30,7 @@ section{
 	background: url(5.jpg);
 	border-radius: 50%;
 	box-shadow: inset 0 0 20px rgba(0,0,0,1), 0 0 50px #4069ff;
-	animation: animateEarth 30s linear infinite;
+	animation: animateEarth 10s linear infinite;
 }
 @keyframes animateEarth{
 
@@ -38,7 +38,7 @@ section{
  	background-position: 0 0;
  }
  100%{
- 	background-position: -2391px 0;
+ 	background-position: -750px 0;
  }
 }
 .circle{
@@ -57,7 +57,7 @@ section{
 	position: absolute;
 	top:0;
 	left: 0;
-	color: #35146f;
+	color: #55f6d1;
 	font-size: 3em;
 	transform-origin: center;
 	transform-style: preserve-3d;
